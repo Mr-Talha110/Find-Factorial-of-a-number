@@ -1,0 +1,12 @@
+Explanation:
+
+We first take input from user and store that value in variable named “n”. 
+Then we initialize a variable “factorial” with value 1 (i.e factorial=1.0) and variable i with value 1(i.e i=1). 
+Repeat next two steps until i is less than n.
+Multiply factoial with current value of i
+Increment i with 1
+At last, print the value of factorial.
+Let’s take an example,
+Let the input be 5.
+The equation that gets created by our algorithm is 5x4x3x2x1.
+So, The Factorial of 5 is 120(5x4x3x2x1).
